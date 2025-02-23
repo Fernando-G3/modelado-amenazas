@@ -1,0 +1,35 @@
+{
+  "version": "2.4.0",
+  "summary": {
+    "title": "Modelo de amenazas Biblioteca universitaria",
+    "owner": "Programacion Segura",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un sitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca (estudiantes y personal universitario).",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama de flujo de datos para el sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0",
+        "cells": []
+      },
+      {
+        "id": 1,
+        "title": "Diagrama de flujo de datos de inicio de sesión del usuario para el sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Guillermo Vera",
+    "threatTop": 0
+  }
+}
