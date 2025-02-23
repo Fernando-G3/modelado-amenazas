@@ -42,6 +42,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -125,7 +126,6 @@
               ]
             },
             "id": "11bbd2b0-0373-4a6b-b1cf-3ddb458e3764",
-            "zIndex": 1,
             "data": {
               "type": "tm.Process",
               "name": "Sitio web\nbiblioteca",
@@ -183,6 +183,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -266,7 +267,6 @@
               ]
             },
             "id": "77159172-c39c-447c-80b3-463e79857d23",
-            "zIndex": 2,
             "data": {
               "type": "tm.Actor",
               "name": "Usuarios",
@@ -317,6 +317,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -400,7 +401,6 @@
               ]
             },
             "id": "57b8cd16-2458-4465-9486-ab9306ba4719",
-            "zIndex": 3,
             "data": {
               "type": "tm.Actor",
               "name": "Bibliotecario",
@@ -944,6 +944,10 @@
               {
                 "x": 600,
                 "y": 570
+              },
+              {
+                "x": 700,
+                "y": 610
               }
             ]
           },
@@ -1374,6 +1378,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -1457,7 +1462,6 @@
               ]
             },
             "id": "759ac01b-90b0-44bb-a9e9-a4f76d9b9b11",
-            "zIndex": 11,
             "data": {
               "type": "tm.Store",
               "name": "Base de datos",
@@ -1532,6 +1536,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 12,
             "ports": {
               "groups": {
                 "top": {
@@ -1615,7 +1620,6 @@
               ]
             },
             "id": "8524e0ee-05c7-44c7-9351-bf900c9f5ce6",
-            "zIndex": 12,
             "data": {
               "type": "tm.Store",
               "name": "Web Application Config",
@@ -1675,6 +1679,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 13,
             "ports": {
               "groups": {
                 "top": {
@@ -1758,7 +1763,6 @@
               ]
             },
             "id": "d24a3d12-1868-465d-8b0b-eabce54dd1c7",
-            "zIndex": 13,
             "data": {
               "type": "tm.Store",
               "name": "Páginas web\nen disco",
